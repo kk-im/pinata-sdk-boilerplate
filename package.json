@@ -1,0 +1,14 @@
+{
+  "name": "pinata-sdk-boilerplate",
+  "version": "1.0.0",
+  "description": "This is the boilerplate code for the guide to using the Pinata SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pinatacloud"
+  ],
+  "author": "Kelly Kim",
+  "license": "ISC"
+}
